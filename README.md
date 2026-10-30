@@ -31,3 +31,21 @@ Storage), Cloudflare, Render
 ## Contact
 David Muchiri — davmuchiri48@gmail.com — Nairobi, Kenya
 Source code is private. Walkthrough available on request.
+## Screenshots
+
+### School
+![School](school.png.png)
+
+### Pharmacy
+![Pharmacy](pharmacy.png.png)
+
+### Shop, bookshop and hotel
+![Bookshop](bookshop.png.png)
+![Hotel](hotel.png.png)
+
+### Bar
+![Bar](bar.png.png)
+
+### Salon and barber
+![Salon](saloon.png.png)
+![Barber](barber.png.png)
